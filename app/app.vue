@@ -5,7 +5,7 @@
     <section class="hero" :style="{ backgroundImage: 'url(/image/weeding_01.jpg)' }">
       <div class="hero-overlay">
         <p class="hero-sub">သဘောတူညီမှုနှင့် ချစ်ခြင်းမေတ္တာဖြင့်</p>
-        <h1 class="hero-title">ဒေါက်တာသက်ဖင်းထူး</h1>
+        <h1 class="hero-title">ဒေါက်တာသက်ဇင်းထူး</h1>
         <div class="hero-divider">
           <span class="divider-line"></span>
           <span class="divider-heart">♡</span>
@@ -55,7 +55,7 @@
 
     <!-- Footer -->
     <footer class="wedding-footer">
-      <p class="footer-names">ဒေါက်တာသက်ဖင်းထူး ♡ မခန့်ကေသွယ်</p>
+      <p class="footer-names">ဒေါက်တာသက်ဇင်းထူး ♡ မခန့်ကေသွယ်</p>
       <p class="footer-wish">ကျွန်ုပ်တို့၏ မင်္ဂလာပွဲသို့ ကြွရောက်ပေးသည့်အတွက် အထူးကျေးဇူးတင်ပါသည်</p>
     </footer>
 
