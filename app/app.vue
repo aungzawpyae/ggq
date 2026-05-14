@@ -5,13 +5,13 @@
     <section class="hero" :style="{ backgroundImage: 'url(/image/weeding_01.jpg)' }">
       <div class="hero-overlay">
         <p class="hero-sub">သဘောတူညီမှုနှင့် ချစ်ခြင်းမေတ္တာဖြင့်</p>
-        <h1 class="hero-title">Aung Zaw Pyae</h1>
+        <h1 class="hero-title">ဒေါက်တာသက်ဖင်းထူး</h1>
         <div class="hero-divider">
           <span class="divider-line"></span>
           <span class="divider-heart">♡</span>
           <span class="divider-line"></span>
         </div>
-        <h1 class="hero-title">Hnin Thiri</h1>
+        <h1 class="hero-title">မခန့်ကေသွယ်</h1>
         <p class="hero-date">၂၀၂၅ ခုနှစ် ဇွန်လ ၂၁ ရက်</p>
         <a href="#invitation" class="hero-btn">ဖိတ်ကြားလွှာ ကြည့်ရှုရန်</a>
       </div>
@@ -55,7 +55,7 @@
 
     <!-- Footer -->
     <footer class="wedding-footer">
-      <p class="footer-names">Aung Zaw Pyae ♡ Hnin Thiri</p>
+      <p class="footer-names">ဒေါက်တာသက်ဖင်းထူး ♡ မခန့်ကေသွယ်</p>
       <p class="footer-wish">ကျွန်ုပ်တို့၏ မင်္ဂလာပွဲသို့ ကြွရောက်ပေးသည့်အတွက် အထူးကျေးဇူးတင်ပါသည်</p>
     </footer>
 
