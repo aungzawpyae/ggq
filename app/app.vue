@@ -57,7 +57,7 @@
         <div class="event-item">
           <div class="event-icon">❤️</div>
           <h3 class="event-label">မင်္ဂလာနေရာ</h3>
-          <p class="event-value">"ဒေါ်မင်္ဂလာခန်းမ"</p>
+          <p class="event-value">"ဧဒင်ခန်းမ"</p>
           <p class="event-value">၈၄လမ်း၊ ၄၂လမ်း x ၄၃လမ်းကြား</p>
           <p class="event-value">မန္တလေးမြို့</p>
         </div>
